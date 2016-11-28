@@ -1,0 +1,5 @@
+package radnaco
+
+object Catalog {
+	
+}
